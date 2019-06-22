@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">List View Adapter</string>
+    <string name="addButton">Add</string>
+    <string name="addPersonHint">Enter new person\'s name</string>
+</resources>
